@@ -2,27 +2,27 @@
 
 ## Stories Made with Idyll
 
-- [The Eye](https://the-eye-5b169094cce3bece5d95e964.vercel.app/)
-- [Kernel Densitiy Estimations](https://mathisonian.github.io/kde/)
+- [The Eye](https://the-eye-5b169094cce3bece5d95e964.vercel.app/){:target="_blank" rel="noopener"}
+- [Kernel Densitiy Estimations](https://mathisonian.github.io/kde/){:target="_blank" rel="noopener"}
 - Student Projects
-  - [Traveling Salesman Algorithms](https://cse442-17f.github.io/Traveling-Salesman-Algorithms/)
-  - [Conflict Driven Clause Learning](https://cse442-17f.github.io/Conflict-Driven-Clause-Learning/)
-  - [A*-Search & Dijkstra Algorithm](https://cse442-17f.github.io/A-Star-Search-and-Dijkstras-Algorithm/)
-- [Idyll Gallery](https://idyll-lang.org/gallery)
+  - [Traveling Salesman Algorithms](https://cse442-17f.github.io/Traveling-Salesman-Algorithms/){:target="_blank" rel="noopener"}
+  - [Conflict Driven Clause Learning](https://cse442-17f.github.io/Conflict-Driven-Clause-Learning/){:target="_blank" rel="noopener"}
+  - [A*-Search & Dijkstra Algorithm](https://cse442-17f.github.io/A-Star-Search-and-Dijkstras-Algorithm/){:target="_blank" rel="noopener"}
+- [Idyll Gallery](https://idyll-lang.org/gallery){:target="_blank" rel="noopener"}
 
 ## Stories Made with Other Tools
 
-- [Umwelt im Osten / Environment in East Germany](https://umwelt-im-osten.de/)
-- [distill.pub (machine learning, especially deep learning resources)](https://distill.pub/)
-- [Observable Plot examples](https://observablehq.com/@observablehq/plot)
+- [Umwelt im Osten / Environment in East Germany](https://umwelt-im-osten.de/){:target="_blank" rel="noopener"}
+- [distill.pub (machine learning, especially deep learning resources)](https://distill.pub/){:target="_blank" rel="noopener"}
+- [Observable Plot examples](https://observablehq.com/@observablehq/plot){:target="_blank" rel="noopener"}
 
 # Tools
 
-- [Idyll](https://idyll-lang.org/)
-- [jekyll: static site generator](https://github.com/jekyll/jekyll)
-- [Explorabe Explainables Tools](https://explorabl.es/tools/)
-- [Observable](https://observablehq.com/@observablehq/plot)
-- [Jupyter Notebooks](https://jupyter.org/)
+- [Idyll](https://idyll-lang.org/){:target="_blank" rel="noopener"}
+- [jekyll: static site generator](https://github.com/jekyll/jekyll){:target="_blank" rel="noopener"}
+- [Explorabe Explainables Tools](https://explorabl.es/tools/){:target="_blank" rel="noopener"}
+- [Observable](https://observablehq.com/@observablehq/plot){:target="_blank" rel="noopener"}
+- [Jupyter Notebooks](https://jupyter.org/){:target="_blank" rel="noopener"}
 
 
 <!--
