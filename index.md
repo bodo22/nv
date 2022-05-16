@@ -1,4 +1,28 @@
-## Welcome to GitHub Pages
+# Interactive & Narrative Visualization Links
+
+## Made with Idyll
+
+- [The Eye](https://the-eye-5b169094cce3bece5d95e964.vercel.app/)
+- [Kernel Densitiy Estimations](https://mathisonian.github.io/kde/)
+- Student Projects
+  - [Traveling Salesman Algorithms](https://cse442-17f.github.io/Traveling-Salesman-Algorithms/)
+  - [Conflict Driven Clause Learning](https://cse442-17f.github.io/Conflict-Driven-Clause-Learning/)
+  - [A*-Search & Dijkstra Algorithm](https://cse442-17f.github.io/A-Star-Search-and-Dijkstras-Algorithm/)
+- [Idyll Gallery](https://idyll-lang.org/gallery)
+
+## Made with other
+
+- [Observable Plot examples](https://observablehq.com/@observablehq/plot)
+- [Umwelt im Osten / Environment in East Germany](https://umwelt-im-osten.de/)
+- [distill.pub (machine learning, especially deep learning resources)](https://distill.pub/)
+
+## Other tools
+
+- [jekyll: static site generator](https://github.com/jekyll/jekyll)
+- [Explorabe Explainables Tools](https://explorabl.es/tools/)
+
+
+<!--
 
 You can use the [editor on GitHub](https://github.com/bodo22/nv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
