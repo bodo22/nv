@@ -12,9 +12,9 @@
 
 ## Stories Made with Other Tools
 
-- [Observable Plot examples](https://observablehq.com/@observablehq/plot)
 - [Umwelt im Osten / Environment in East Germany](https://umwelt-im-osten.de/)
 - [distill.pub (machine learning, especially deep learning resources)](https://distill.pub/)
+- [Observable Plot examples](https://observablehq.com/@observablehq/plot)
 
 # Tools
 
