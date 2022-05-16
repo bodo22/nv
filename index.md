@@ -1,6 +1,6 @@
 # Interactive & Narrative Visualization Links
 
-## Made with Idyll
+## Stories Made with Idyll
 
 - [The Eye](https://the-eye-5b169094cce3bece5d95e964.vercel.app/)
 - [Kernel Densitiy Estimations](https://mathisonian.github.io/kde/)
@@ -10,16 +10,19 @@
   - [A*-Search & Dijkstra Algorithm](https://cse442-17f.github.io/A-Star-Search-and-Dijkstras-Algorithm/)
 - [Idyll Gallery](https://idyll-lang.org/gallery)
 
-## Made with other
+## Stories Made with Other Tools
 
 - [Observable Plot examples](https://observablehq.com/@observablehq/plot)
 - [Umwelt im Osten / Environment in East Germany](https://umwelt-im-osten.de/)
 - [distill.pub (machine learning, especially deep learning resources)](https://distill.pub/)
 
-## Other tools
+# Tools
 
+- [Idyll](https://idyll-lang.org/)
 - [jekyll: static site generator](https://github.com/jekyll/jekyll)
 - [Explorabe Explainables Tools](https://explorabl.es/tools/)
+- [Observable](https://observablehq.com/@observablehq/plot)
+- [Jupyter Notebooks](https://jupyter.org/)
 
 
 <!--
